@@ -1,0 +1,10 @@
+# Sample multi-modal sensory log for testing the programs
+# Format free-form; feed line-by-line to the tutor or grounder
+
+vision: dense forest canopy, filtered green light, trail heading northeast, broken branch on ground
+sound: distant water flow, light wind in leaves, occasional bird call
+tactile: cool moist air, soft leaf litter underfoot, slight incline
+smell: damp earth, pine resin
+location: approx 45.2N 122.6W, elevation 340m, no cell signal
+vitals: heart rate 78, no injuries reported
+query: nearest reliable water source and purification method
